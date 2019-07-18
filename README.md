@@ -17,7 +17,7 @@ eBOMB embraces the immutable nature of Ethereum Classic and the continued commit
  ## The Decentralized Airdrop Mechanism  
  Airdrops have suffered from distribution to recipients who rush to sell resulting in rapid accumulation by a minority who play the other side of this scenario. This results in poor coin distribution and a weak community. A steady, sustained and methodically delayed airdrop can mitigate this problem to a certain extent but is then hindered by the existence of a single address holding an unreasonably large percent of the coin supply. ***eBOMB proposes a Decentralized Airdrop Mechanism to ensure proper coin distribution*** In short, 0.5% of supply will be distributed to 100 **Trusted Distribution Custodians**. There is indeed an element of trust here; and they will be entrusted with the mission of airdroping half of this amount to many (~100 individuals). **Legendary Genesis Custodians** will be chosen based on recognition in the community for their contributions to Ethereum Classic, the Saturn Network, ETC tokens or other demonstrated acheivements relevant to the mission. They will each be sent 1% of coin supply and entrusted with the task of a slow sustained airdrop of half the amount they received. The remaining half is to keep; or sell, or donate, burn, etc. 
  
-![Decentralized Airdrop Mechanism](/assets/POW-airdrop.png)  
+![Decentralized Airdrop Mechanism](/assets/POW-airdrop.png)(https://ebomb-pow.github.io/eBOMB/assets/POW-airdrop.png)
   
   
 More info can be found in the following locations:  
