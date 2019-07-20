@@ -1,6 +1,5 @@
 # eBOMB
-eBOMB (POW) is a deflationary token on the Ethereum Classic blockchain backed by an immutable ETC POW chain.  
-Approximately 0.5% of tokens are sent to a burn address with each token transfer.  
+eBOMB (POW) is ***the first*** deflationary token on the Ethereum Classic blockchain backed by an immutable ETC POW chain. Approximately 0.5% of tokens are sent to a burn address with each token transfer.  
   
   
 The BOMB token experiment on the Ethereum chain has gained considerable interest due to the mechanism of deflation by transactional coin burn with each transfer. Clones and clone variants have rapidly appeared; usually modified in terms of the decimal value and the burn rate. **Suprisingly, until the launch of eBOMB, no variant of the smart contract has been deployed to Ethereum Classic**.  
