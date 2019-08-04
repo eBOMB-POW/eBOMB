@@ -15,17 +15,20 @@ eBOMB embraces the immutable nature of Ethereum Classic and the continued commit
 * Increased push for decentralization of not only the underlying blockchain but of the social media channels that govern official communication. Much of the official documentation (and website) will reside on github with permissions given to multiple **Legendary Genesis Custodians** (more on this in the description of the **Decentralized Airdrop Mechanism**)  
   
  ## The Decentralized Airdrop Mechanism  
- Airdrops have suffered from distribution to recipients who rush to sell resulting in rapid accumulation by a minority who play the other side of this scenario. This results in poor coin distribution and a weak community. A steady, sustained and methodically delayed airdrop can mitigate this problem to a certain extent but is then hindered by the existence of a single address holding an unreasonably large percent of the coin supply. ***eBOMB proposes a Decentralized Airdrop Mechanism to ensure proper coin distribution*** In short, 0.5% of supply will be distributed to 100 **Trusted Distribution Custodians**. There is indeed an element of trust here; and they will be entrusted with the mission of airdroping half of this amount to many (~100 individuals). **Legendary Genesis Custodians** will be chosen based on recognition in the community for their contributions to Ethereum Classic, the Saturn Network, ETC tokens or other demonstrated acheivements relevant to the mission. They will each be sent 1% of coin supply and entrusted with the task of a slow sustained airdrop of half the amount they received. The remaining half is to keep; or sell, or donate, burn, etc. 
- 
-![Decentralized Airdrop Mechanism](/assets/POW-airdrop.png)(https://ebomb-pow.github.io/eBOMB/assets/POW-airdrop.png)
-  
+ Airdrops have suffered from distribution to recipients who rush to sell resulting in rapid accumulation by a minority who play the other side of this scenario. This results in poor coin distribution and a weak community. A steady, sustained and methodically delayed airdrop can mitigate this problem to a certain extent but is then hindered by the existence of a single address holding an unreasonably large percent of the coin supply. ***eBOMB proposes a Decentralized Airdrop Mechanism to ensure proper coin distribution*** In short, 1% of supply will be distributed to several **Trusted Distribution Custodians**. There is indeed an element of trust here; and they will be entrusted with the mission of airdroping half of this amount to many (~100 individuals). **Legendary Genesis Custodians** will be chosen based on recognition in the community for their contributions to Ethereum Classic, the Saturn Network, ETC tokens or other demonstrated acheivements relevant to the mission. They will each be sent 1% of coin supply and entrusted with the task of a slow sustained airdrop of half the amount they received. The remaining half is to keep; or sell, or donate, burn, etc.  
+Genesis Custodians to date:  
+P3C  
+Bitunits  
+
+Additional airdrops will be carried out through the use of the Saturn Protocol airdrop tool which places tokens in escrow for an address to claim in the future. This eliminates many elements of gaming the system where the same person requests tokens through many twitter accounts. Wide distribution is key.  
+
   
 More info can be found in the following locations:  
 [eBOMB contract address](https://blockscout.com/etc/mainnet/tokens/0x171040cd10f204f3b257e45b41ce65d36150558c/token_transfers)  
 [Saturn Network announcement](https://forum.saturn.network/t/ebomb-pow-0-5-deflationary-on-etc-chain/4800)  
-[Current Supply](https://www.saturn.network/exchange/ETC/token/0x171040cd10f204f3b257e45b41ce65d36150558c)
-[Saturn Exchange](https://www.saturn.network/exchange/ETC/order-book/0x171040cd10f204f3b257e45b41ce65d36150558c/0x0000000000000000000000000000000000000000)  
-[Twitter](https://twitter.com/eBOMB_POW)
+[Current Supply](https://www.saturn.network/exchange/ETC/token/0x171040cd10f204f3b257e45b41ce65d36150558c)  
+[Saturn Exchange](https://www.saturn.network/exchange/ETC/order-book/0x171040cd10f204f3b257e45b41ce65d36150558c)  
+[Twitter](https://twitter.com/eBOMB_POW)  
 [Telegram](https://t.me/eBOMB_POW)  
   
   
