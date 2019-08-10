@@ -1,10 +1,15 @@
 # eBOMB
 eBOMB (POW) is ***the first*** deflationary token on the Ethereum Classic blockchain backed by an immutable ETC POW chain. Approximately 0.5% of tokens are sent to a burn address with each token transfer.  
-  
+ 
+More info can be found in the following locations:  
+[eBOMB contract address](https://blockscout.com/etc/mainnet/tokens/0x171040cd10f204f3b257e45b41ce65d36150558c/token_transfers)  
+[Saturn Network announcement](https://forum.saturn.network/t/ebomb-pow-0-5-deflationary-on-etc-chain/4800)  
+[Current Supply](https://www.saturn.network/exchange/ETC/token/0x171040cd10f204f3b257e45b41ce65d36150558c)  
+[Saturn Exchange](https://www.saturn.network/exchange/ETC/order-book/0x171040cd10f204f3b257e45b41ce65d36150558c)  
+[Twitter](https://twitter.com/eBOMB_POW)  
+[Telegram](https://t.me/eBOMB_POW)  
   
 The BOMB token experiment on the Ethereum chain has gained considerable interest due to the mechanism of deflation by transactional coin burn with each transfer. Clones and clone variants have rapidly appeared; usually modified in terms of the decimal value and the burn rate. **Suprisingly, until the launch of eBOMB, no variant of the smart contract has been deployed to Ethereum Classic**.  
-
-![eBOMB-gif](/assets/eBOMB-small.gif)  
   
 eBOMB embraces the immutable nature of Ethereum Classic and the continued commitment to Proof of Work (POW) as the original and most powerful mechanism for preserving the integrity of a blockchain ledger. eBOMB therefore improves upon the original BOMB token based on the following characteristics:  
 
@@ -21,15 +26,5 @@ P3C
 Bitunits  
 
 Additional airdrops will be carried out through the use of the Saturn Protocol airdrop tool which places tokens in escrow for an address to claim in the future. This eliminates many elements of gaming the system where the same person requests tokens through many twitter accounts. Wide distribution is key.  
-
-  
-More info can be found in the following locations:  
-[eBOMB contract address](https://blockscout.com/etc/mainnet/tokens/0x171040cd10f204f3b257e45b41ce65d36150558c/token_transfers)  
-[Saturn Network announcement](https://forum.saturn.network/t/ebomb-pow-0-5-deflationary-on-etc-chain/4800)  
-[Current Supply](https://www.saturn.network/exchange/ETC/token/0x171040cd10f204f3b257e45b41ce65d36150558c)  
-[Saturn Exchange](https://www.saturn.network/exchange/ETC/order-book/0x171040cd10f204f3b257e45b41ce65d36150558c)  
-[Twitter](https://twitter.com/eBOMB_POW)  
-[Telegram](https://t.me/eBOMB_POW)  
-  
   
 **eBOMB needs to be a community effort** Follow on Twitter. Join Telegram. Submit creative ideas, new interoperable contracts, graphics, logos and memes to the github repository.
