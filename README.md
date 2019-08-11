@@ -4,7 +4,7 @@ eBOMB (POW) is ***the first*** deflationary token on the Ethereum Classic blockc
 More info can be found in the following locations:  
 [eBOMB contract address](https://blockscout.com/etc/mainnet/tokens/0x171040cd10f204f3b257e45b41ce65d36150558c/token_transfers)  
 [Saturn Network announcement](https://forum.saturn.network/t/ebomb-pow-0-5-deflationary-on-etc-chain/4800)  
-[Current Supply](https://www.saturn.network/exchange/ETC/token/0x171040cd10f204f3b257e45b41ce65d36150558c)  
+[Current Supply](https://www.saturn.network/exchange/ETC/order-book/0x171040cd10f204f3b257e45b41ce65d36150558c)  
 [Saturn Exchange](https://www.saturn.network/exchange/ETC/order-book/0x171040cd10f204f3b257e45b41ce65d36150558c)  
 [Twitter](https://twitter.com/eBOMB_POW)  
 [Telegram](https://t.me/eBOMB_POW)  
