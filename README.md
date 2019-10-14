@@ -27,6 +27,6 @@ Bitunits
 
 Additional airdrops will be carried out through the use of the Saturn Protocol airdrop tool which places tokens in escrow for an address to claim in the future. This eliminates many elements of gaming the system where the same person requests tokens through many twitter accounts. Wide distribution is key.  
   
-Roadmap:
+Roadmap:  
 Q4 2019: Continued airdrops to holders of various ETC tokens and crossover airdrops with new deflationary projects.  
-2020: Continued airdrops and social media awareness campains. Engagement with Saturn Network DEX community. 
+Q1 - Q2 2020: Continued airdrops and social media awareness campains. Engagement with Saturn Network DEX community. 
