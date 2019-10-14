@@ -1,4 +1,4 @@
-# eBOMB
+# eBOMB Whitepaper
 eBOMB (POW) is ***the first*** deflationary token on the Ethereum Classic blockchain backed by an immutable ETC POW chain. Approximately 0.5% of tokens are sent to a burn address with each token transfer.  
  
 More info can be found in the following locations:  
@@ -27,4 +27,6 @@ Bitunits
 
 Additional airdrops will be carried out through the use of the Saturn Protocol airdrop tool which places tokens in escrow for an address to claim in the future. This eliminates many elements of gaming the system where the same person requests tokens through many twitter accounts. Wide distribution is key.  
   
-**eBOMB needs to be a community effort** Follow on Twitter. Join Telegram. Submit creative ideas, new interoperable contracts, graphics, logos and memes to the github repository.
+Roadmap:
+Q4 2019: Continued airdrops to holders of various ETC tokens and crossover airdrops with new deflationary projects.  
+2020: Continued airdrops and social media awareness campains. Engagement with Saturn Network DEX community. 
